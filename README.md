@@ -1,4 +1,4 @@
-# 📡 Deep Learning-Aided Phase-Aware Channel Estimation for Phase-Drifting Backscatter Links
+# 📡 Deep Learning-Assisted Robust Channel Estimation over Phase-Drifting Backscatter Links
 
 > Residual-gated CNN (RG-CNN) that suppresses the deterministic error floor of closed-form phase-aware estimators under large residual carrier-phase drift.
 
