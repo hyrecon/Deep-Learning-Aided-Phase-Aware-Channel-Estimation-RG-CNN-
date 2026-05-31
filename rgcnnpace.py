@@ -420,7 +420,7 @@ def main() -> None:
 
     model = train(cfg)
 
-    print("\nEvaluating ...")
+    print("\nEvaluating")
     snr_res = eval_vs_snr(cfg, model)
     span_res = eval_vs_span(cfg, model, noise_free=True)
     fail_res = eval_failure(cfg, model)
